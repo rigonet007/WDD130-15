@@ -42,7 +42,7 @@ body {
 }
 
 header {
-    max-width: 0;
+    max-width: 0 auto;
     background-color: #264653;
 }
 
