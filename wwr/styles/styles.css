@@ -29,7 +29,8 @@ Fonts are separated by a | */
 }
 
 #hero-img {
-    width: 100%;
+    width: 99.8%;
+    border: 01px solid black;
 }
 
 body {
@@ -41,7 +42,7 @@ body {
 }
 
 header {
-    max-width: 0 auto;
+    max-width: 0;
     background-color: #264653;
 }
 
@@ -140,7 +141,6 @@ footer h3 a:hover {
 .social img {
     padding-top: 15px;
 }
-
 
 #hero-msg h1, #hero-msg h4 {
     text-align: center;
